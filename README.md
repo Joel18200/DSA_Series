@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
