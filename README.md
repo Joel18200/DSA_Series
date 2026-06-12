@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Joel18200/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
 ## Binary Search
 |  |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Joel18200/DSA_Series/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joel18200/DSA_Series/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Joel18200/DSA_Series/tree/master/0155-min-stack) |
 ## Design
 |  |
