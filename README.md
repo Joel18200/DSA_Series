@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
 | [3838-weighted-word-mapping](https://github.com/Joel18200/DSA_Series/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Joel18200/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
