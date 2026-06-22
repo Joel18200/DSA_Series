@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Joel18200/DSA_Series/tree/master/1189-maximum-number-of-balloons) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Joel18200/DSA_Series/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
