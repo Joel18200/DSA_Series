@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Joel18200/DSA_Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Joel18200/DSA_Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Joel18200/DSA_Series/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Joel18200/DSA_Series/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Joel18200/DSA_Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
