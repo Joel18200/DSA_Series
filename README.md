@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Joel18200/DSA_Series/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/Joel18200/DSA_Series/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Joel18200/DSA_Series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Joel18200/DSA_Series/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
