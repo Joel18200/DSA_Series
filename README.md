@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Joel18200/DSA_Series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
+| [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Monotonic Stack
 |  |
@@ -138,5 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
