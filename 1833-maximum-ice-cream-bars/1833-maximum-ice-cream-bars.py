@@ -6,5 +6,7 @@ class Solution:
             if costs[i]<=coins:
                 ans+=1
                 coins-=costs[i]
+            else:
+                break    
         return ans    
         
