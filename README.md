@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Joel18200/DSA_Series/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Joel18200/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Joel18200/DSA_Series/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
