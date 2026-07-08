@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joel18200/DSA_Series/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Joel18200/DSA_Series/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Joel18200/DSA_Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Joel18200/DSA_Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
