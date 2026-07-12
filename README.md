@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Joel18200/DSA_Series/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Joel18200/DSA_Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2784-check-if-array-is-good](https://github.com/Joel18200/DSA_Series/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Joel18200/DSA_Series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
+| [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2784-check-if-array-is-good](https://github.com/Joel18200/DSA_Series/tree/master/2784-check-if-array-is-good) |
