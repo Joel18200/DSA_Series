@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Joel18200/DSA_Series/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Joel18200/DSA_Series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Joel18200/DSA_Series/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Joel18200/DSA_Series/tree/master/3838-weighted-word-mapping) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Joel18200/DSA_Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Joel18200/DSA_Series/tree/master/0118-pascals-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Linked List
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Joel18200/DSA_Series/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
