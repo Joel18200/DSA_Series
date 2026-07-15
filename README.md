@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Joel18200/DSA_Series/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Joel18200/DSA_Series/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Joel18200/DSA_Series/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/Joel18200/DSA_Series/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Joel18200/DSA_Series/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/Joel18200/DSA_Series/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Joel18200/DSA_Series/tree/master/1757-recyclable-and-low-fat-products) |
