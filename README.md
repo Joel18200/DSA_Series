@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Joel18200/DSA_Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Joel18200/DSA_Series/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Joel18200/DSA_Series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Joel18200/DSA_Series/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Joel18200/DSA_Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joel18200/DSA_Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Joel18200/DSA_Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Joel18200/DSA_Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joel18200/DSA_Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joel18200/DSA_Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
