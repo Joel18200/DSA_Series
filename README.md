@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
+| [1646-get-maximum-in-generated-array](https://github.com/Joel18200/DSA_Series/tree/master/1646-get-maximum-in-generated-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Joel18200/DSA_Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Joel18200/DSA_Series/tree/master/1646-get-maximum-in-generated-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Joel18200/DSA_Series/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joel18200/DSA_Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
