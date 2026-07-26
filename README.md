@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Joel18200/DSA_Series/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0334-increasing-triplet-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Joel18200/DSA_Series/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joel18200/DSA_Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Joel18200/DSA_Series/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
 | [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
