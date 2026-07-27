@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Joel18200/DSA_Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Joel18200/DSA_Series/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Joel18200/DSA_Series/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joel18200/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Joel18200/DSA_Series/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Joel18200/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Joel18200/DSA_Series/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Joel18200/DSA_Series/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0033-search-in-rotated-sorted-array) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Joel18200/DSA_Series/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
