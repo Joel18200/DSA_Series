@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joel18200/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Joel18200/DSA_Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Joel18200/DSA_Series/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Joel18200/DSA_Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Joel18200/DSA_Series/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Joel18200/DSA_Series/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Joel18200/DSA_Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Joel18200/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joel18200/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joel18200/DSA_Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Linked List
 |  |
