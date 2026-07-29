@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Joel18200/DSA_Series/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joel18200/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Joel18200/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Joel18200/DSA_Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Joel18200/DSA_Series/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Joel18200/DSA_Series/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Joel18200/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
