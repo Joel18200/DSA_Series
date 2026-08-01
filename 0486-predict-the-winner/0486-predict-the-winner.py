@@ -1,0 +1,13 @@
+from typing import List
+class Solution:
+    def predictTheWinner(self, nums: List[int]) -> bool:
+        @cache
+        def dp(i, j):
+            if i == j:
+                return nums[i]
+            pick_left = nums[i] - dp(i + 1, j)
+            pick_right = nums[j] - dp(i, j - 1)
+
+            return max(pick_left, pick_right)
+
+        return dp(0, len(nums) - 1) >= 0
