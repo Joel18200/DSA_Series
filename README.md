@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Joel18200/DSA_Series/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joel18200/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Joel18200/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Joel18200/DSA_Series/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Joel18200/DSA_Series/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Joel18200/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joel18200/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joel18200/DSA_Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Joel18200/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
