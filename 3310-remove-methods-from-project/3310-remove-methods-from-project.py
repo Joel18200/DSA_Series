@@ -1,10 +1,19 @@
 class Solution:
     def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
+        '''
+        adjacency list is initialized to reduce the search methods in invocations
+        here each array represent indexes or method number and whom they call 
+        if 0->1,0->2 then in adjancency list it is represented as method:0 [1,2]
+        rather than showing [0,1][0,2] in invocations
+        '''
         adjacency_list=[[] for i in range(n)]
         for caller,callee in invocations:
             adjacency_list[caller].append(callee)
         suspicous=[False]*n
-
+        '''
+        initially dfs(k) is called and then we'll check every method , the k is changed to True 
+        and for the non-visited method well change to True until every method from k to rest is reached
+        '''
         def dfs(method):
             suspicous[method]=True
             for next_method in adjacency_list[method]:
