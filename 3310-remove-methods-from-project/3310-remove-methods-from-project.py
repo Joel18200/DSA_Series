@@ -17,7 +17,7 @@ class Solution:
         '''
         for caller,callee in invocations:
             if not suspicous[caller] and suspicous[callee]:
-                return list(range(n))
+                return [i for i in range(n)]
         '''
         if there are suspicous methods and there are no outside methods connected to it
         we can remove the suspicous methods
