@@ -3,6 +3,9 @@ class Solution:
         while True:
             s=str(n)
             ans=1
+            if '0' in s:
+                return n
+                break
             for i in range(len(s)):
                 conversion=int(s[i])
                 ans*=conversion
