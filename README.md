@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Joel18200/DSA_Series/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Joel18200/DSA_Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Joel18200/DSA_Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Joel18200/DSA_Series/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joel18200/DSA_Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Joel18200/DSA_Series/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [2485-find-the-pivot-integer](https://github.com/Joel18200/DSA_Series/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Joel18200/DSA_Series/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Joel18200/DSA_Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Joel18200/DSA_Series/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Joel18200/DSA_Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Joel18200/DSA_Series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -344,14 +348,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Joel18200/DSA_Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Joel18200/DSA_Series/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
