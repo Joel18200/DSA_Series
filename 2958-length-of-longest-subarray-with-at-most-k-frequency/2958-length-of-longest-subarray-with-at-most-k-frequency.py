@@ -4,7 +4,8 @@ class Solution:
         left=0
         ans=0
         for right in range(len(nums)):
-            seen[nums[right]]+=1
+            num=nums[right]
+            seen[num]+=1
             while seen[nums[right]]>k:
                 seen[nums[left]]-=1
                 left+=1
