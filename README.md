@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Joel18200/DSA_Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Joel18200/DSA_Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Joel18200/DSA_Series/tree/master/1386-cinema-seat-allocation) |
 | [2784-check-if-array-is-good](https://github.com/Joel18200/DSA_Series/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joel18200/DSA_Series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Joel18200/DSA_Series/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Joel18200/DSA_Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Joel18200/DSA_Series/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Joel18200/DSA_Series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joel18200/DSA_Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0334-increasing-triplet-subsequence) |
+| [1386-cinema-seat-allocation](https://github.com/Joel18200/DSA_Series/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Joel18200/DSA_Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Joel18200/DSA_Series/tree/master/2029-stone-game-ix) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Joel18200/DSA_Series/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Joel18200/DSA_Series/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Joel18200/DSA_Series/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Joel18200/DSA_Series/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joel18200/DSA_Series/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
