@@ -3,10 +3,8 @@ class Solution:
     def lexicographicallySmallestArray(self, nums: List[int], limit: int) -> List[int]:
         duplicate=nums[:]
         nums.sort()
-        left = 0
-        right=1
-        current_array=[]
-        groups=[]
+        left,right=0,1
+        current_array,groups=[],[]
         while right<len(nums):
             if nums[right] - nums[left]<= limit:
                 if not current_array:
