@@ -3,11 +3,10 @@ class Solution:
         stack=[]
         pairs={')':'(',']':'[','}':'{'}
         for symbol in s:
-            if symbol in '([{':
-                stack.append(symbol)
-            else:
-                if not stack or stack[-1]!=pairs[symbol]:
+            if symbol in pairs:
+                if not stack or stack.pop()!=pairs[symbol]:
                     return False
-                stack.pop()
+            else:
+                stack.append(symbol)
         return len(stack)==0                
         
