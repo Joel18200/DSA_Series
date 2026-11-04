@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Joel18200/DSA_Series/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Joel18200/DSA_Series/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Joel18200/DSA_Series/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Joel18200/DSA_Series/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Joel18200/DSA_Series/tree/master/0896-monotonic-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0867-transpose-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/Joel18200/DSA_Series/tree/master/1646-get-maximum-in-generated-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Joel18200/DSA_Series/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
