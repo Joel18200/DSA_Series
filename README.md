@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Joel18200/DSA_Series/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Joel18200/DSA_Series/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Joel18200/DSA_Series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joel18200/DSA_Series/tree/master/0219-contains-duplicate-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Joel18200/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joel18200/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joel18200/DSA_Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Joel18200/DSA_Series/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Joel18200/DSA_Series/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Joel18200/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Joel18200/DSA_Series/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Joel18200/DSA_Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quickselect
 |  |
