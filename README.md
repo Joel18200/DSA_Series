@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Joel18200/DSA_Series/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Joel18200/DSA_Series/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Joel18200/DSA_Series/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Joel18200/DSA_Series/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Joel18200/DSA_Series/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Joel18200/DSA_Series/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Joel18200/DSA_Series/tree/master/0074-search-a-2d-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Joel18200/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Joel18200/DSA_Series/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Joel18200/DSA_Series/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Joel18200/DSA_Series/tree/master/0191-number-of-1-bits) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Joel18200/DSA_Series/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Joel18200/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joel18200/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Joel18200/DSA_Series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
