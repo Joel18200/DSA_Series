@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Joel18200/DSA_Series/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Joel18200/DSA_Series/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Joel18200/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Joel18200/DSA_Series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1646-get-maximum-in-generated-array](https://github.com/Joel18200/DSA_Series/tree/master/1646-get-maximum-in-generated-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Joel18200/DSA_Series/tree/master/1833-maximum-ice-cream-bars) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Joel18200/DSA_Series/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Joel18200/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Joel18200/DSA_Series/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Joel18200/DSA_Series/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
