@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joel18200/DSA_Series/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Joel18200/DSA_Series/tree/master/0567-permutation-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joel18200/DSA_Series/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Joel18200/DSA_Series/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Joel18200/DSA_Series/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Joel18200/DSA_Series/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Joel18200/DSA_Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Joel18200/DSA_Series/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Joel18200/DSA_Series/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joel18200/DSA_Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Joel18200/DSA_Series/tree/master/0645-set-mismatch) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Joel18200/DSA_Series/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Joel18200/DSA_Series/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joel18200/DSA_Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -498,4 +502,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Joel18200/DSA_Series/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Joel18200/DSA_Series/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
